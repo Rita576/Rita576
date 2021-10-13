@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/rita-melo-167a89206/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
- ![Snake animation](https://github.com/Rita576/Rita576/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 
